@@ -1,2 +1,2 @@
-Hallo, Dit is de (aangepaste) versie1 van Daniel1.
-Dit is versie1 van Daniel1
+Dit is de aangepaste versie van Daniel1 voor GroepsHWGitHub.
+Hierbij duidelijkheid.
