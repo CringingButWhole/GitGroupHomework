@@ -1,1 +1,1 @@
-dit is versie3 van Daniel1
+dit is versie3 van Daniel1. Hierna aangepast voor Uitvoer7 om een aangepaste Daniel3.txt te krijgen in de branch.
